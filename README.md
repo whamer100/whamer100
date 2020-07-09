@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="KotoWave.png" height="28" valign="text-bottom">
 
 <!--
 **whamer100/whamer100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
